@@ -7,5 +7,6 @@ Red
 Green
 Yellow
 Unicorn
+Blue
 
 These are the colours of the rainboww 
